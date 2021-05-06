@@ -9,9 +9,9 @@ prompt.get('amount', function (err, result) {
     var mcolor = null
     var msize = null
     var mrace = null
-    var i = 0
+    var i = 1
 
-    while (result.amount > i) {
+    while (result.amount >= i) {
         console.log(i);
         i++;
     
