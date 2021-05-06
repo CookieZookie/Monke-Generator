@@ -1,0 +1,23 @@
+{
+  "name": "monke-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookieZookie/Monke-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookieZookie/Monke-Generator/issues"
+  },
+  "homepage": "https://github.com/CookieZookie/Monke-Generator#readme",
+  "dependencies": {
+    "prompt": "^1.1.0",
+    "readline": "^1.3.0"
+  }
+}
