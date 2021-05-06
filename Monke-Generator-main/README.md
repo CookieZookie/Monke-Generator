@@ -1,2 +1,0 @@
-# Monke-Generator
-Mnke
